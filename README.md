@@ -1,6 +1,6 @@
 # projeto1
 tutorial 
-<p align="left">Hello World mi name es Edson dos santos Junior!!</p>
+<p align="left">Hello World my name es Edson dos santos Junior!!</p>
 <div align="left">
   <a href="https://www.instagram.com/edsondsjunior/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
